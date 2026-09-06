@@ -1,6 +1,6 @@
 # Henrique Ceccatto Andrade
 
-Physics Engineering student at UFRGS, focused on Data Science, Machine Learning, and quantitative analysis with Python.
+Physics Engineering student at UFRGS, focused on Data Science and Machine Learning with Python.
 
 I use data, statistics, and computational modeling to investigate real-world problems, especially where engineering, finance, and machine learning meet. My current work is centered on building clean analytical workflows: collecting data, preparing datasets, exploring patterns, validating assumptions, and turning notebooks into reproducible projects.
 
@@ -10,6 +10,12 @@ I use data, statistics, and computational modeling to investigate real-world pro
 - Financial market data workflows, including historical price collection, return calculation, exploratory analysis, and preparation for predictive modeling.
 - Stronger project documentation, reproducibility, and portfolio-quality repositories for data and ML roles.
 
+
+## Books I've Read or currently reading
+
+- Hands On Machine Learning with Scikit-Learn-Keras and TensorFlow, Aurelien-Geron (Reading)
+
+
 ## Core Skills
 
 | Area | Tools and Topics |
@@ -17,21 +23,8 @@ I use data, statistics, and computational modeling to investigate real-world pro
 | Programming | Python, Jupyter Notebook, Git, GitHub |
 | Data Analysis | pandas, NumPy, data cleaning, EDA, visualization |
 | Machine Learning | scikit-learn, TensorFlow, model evaluation, feature engineering |
-| Statistics and Modeling | time series, returns, volatility, numerical analysis |
-| Visualization | seaborn, matplotlib, analytical storytelling |
+| Visualization | seaborn, matplotlib, plotly |
 
-## Featured Project
-
-### [projeto-finor](https://github.com/henriquececcatto/projeto-finor)
-
-Financial data project focused on collecting and preparing historical IBOVESPA data for analysis and modeling.
-
-Highlights:
-
-- Downloaded historical adjusted prices for 79 IBOVESPA assets and the benchmark index using `yfinance`.
-- Built daily log-return and simple-return datasets for quantitative analysis.
-- Organized the workflow in notebooks for data collection, preprocessing, and exploratory analysis.
-- Prepared the project as a foundation for portfolio construction, index behavior analysis, and machine learning experiments.
 
 ## Professional Focus
 
