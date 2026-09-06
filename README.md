@@ -1,12 +1,50 @@
-<h1 align="center">Olá 👋, meu nome é Henrique Ceccatto Andrade</h1>
-<h3 align="center">Estudante de Engenharia Física na UFRGS com foco em Python, Ciência de Dados e Machine Learning, aplicando análise em modelagem para resolver desafios de engenharia e tecnologia</h3>
+# Henrique Ceccatto Andrade
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/henrique-ceccatto-andrade-6b305526a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/henrique-ceccatto-andrade-6b305526a" height="30" width="40" /></a>
-</p>
+Physics Engineering student at UFRGS, focused on Data Science, Machine Learning, and quantitative analysis with Python.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I use data, statistics, and computational modeling to investigate real-world problems, especially where engineering, finance, and machine learning meet. My current work is centered on building clean analytical workflows: collecting data, preparing datasets, exploring patterns, validating assumptions, and turning notebooks into reproducible projects.
 
+## What I Am Working On
+
+- Data analysis and machine learning projects using Python, pandas, NumPy, scikit-learn, TensorFlow, seaborn, and matplotlib.
+- Financial market data workflows, including historical price collection, return calculation, exploratory analysis, and preparation for predictive modeling.
+- Stronger project documentation, reproducibility, and portfolio-quality repositories for data and ML roles.
+
+## Core Skills
+
+| Area | Tools and Topics |
+| --- | --- |
+| Programming | Python, Jupyter Notebook, Git, GitHub |
+| Data Analysis | pandas, NumPy, data cleaning, EDA, visualization |
+| Machine Learning | scikit-learn, TensorFlow, model evaluation, feature engineering |
+| Statistics and Modeling | time series, returns, volatility, numerical analysis |
+| Visualization | seaborn, matplotlib, analytical storytelling |
+
+## Featured Project
+
+### [projeto-finor](https://github.com/henriquececcatto/projeto-finor)
+
+Financial data project focused on collecting and preparing historical IBOVESPA data for analysis and modeling.
+
+Highlights:
+
+- Downloaded historical adjusted prices for 79 IBOVESPA assets and the benchmark index using `yfinance`.
+- Built daily log-return and simple-return datasets for quantitative analysis.
+- Organized the workflow in notebooks for data collection, preprocessing, and exploratory analysis.
+- Prepared the project as a foundation for portfolio construction, index behavior analysis, and machine learning experiments.
+
+## Professional Focus
+
+I am looking for opportunities and collaborations in:
+
+- Data Science
+- Machine Learning
+- Quantitative analysis
+- Analytics projects with engineering or financial applications
+- Python-based data workflows
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/henrique-ceccatto-andrade-6b305526a](https://www.linkedin.com/in/henrique-ceccatto-andrade-6b305526a)
+- GitHub: [github.com/henriquececcatto](https://github.com/henriquececcatto)
 
