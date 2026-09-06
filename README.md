@@ -2,8 +2,8 @@
 
 Physics Engineering student at UFRGS, focused on Data Science and Machine Learning with Python.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Ceccatto%20Andrade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-ceccatto-andrade-6b305526a)
-[![GitHub](https://img.shields.io/badge/GitHub-henriquececcatto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henriquececcatto)
+[![LinkedIn]](https://www.linkedin.com/in/henrique-ceccatto-andrade-6b305526a)
+[![GitHub]](https://github.com/henriquececcatto)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=FF6F00)
