@@ -2,7 +2,10 @@
 
 Physics Engineering student at UFRGS, focused on Data Science and Machine Learning with Python.
 
-[![LinkedIn](https://shields.io)(https://www.linkedin.com/in/henrique-ceccatto-andrade/)
+<a href="https://www.linkedin.com/in/henrique-ceccatto-andrade/" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn">
+</a>
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=FF6F00)
